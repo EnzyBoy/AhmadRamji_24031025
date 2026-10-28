@@ -1,7 +1,5 @@
 void main(){
-  // create list of int
-  List<int> listint = [];
-
-  // create list of string
-  List<String> liststring = [];
+  Set<int> numbers = {};
+  var names = <String>{};
+  final numberdouble = <double>{};
 }
